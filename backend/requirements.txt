@@ -1,0 +1,6 @@
+agent-framework-foundry==1.8.1
+aiohttp==3.13.3
+azure-identity==1.25.3
+fastapi==0.137.0
+pydantic==2.13.4
+uvicorn[standard]==0.49.0
